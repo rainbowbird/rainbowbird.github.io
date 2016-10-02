@@ -9,8 +9,8 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>Diankun Zhang</name>
+    <email>kundy.zhang@gmail.com</email>
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
